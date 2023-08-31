@@ -2,7 +2,7 @@
 
 ![Capturar3](https://github.com/angelodesenvolvedor/Reminder-Beber-Agua/assets/98216100/ab5a018c-7b88-4ff1-8d3f-78673adabaa4)
 
-HTML: Criei um arquivo HTML com uma div "reminder" para o lembrete, um parágrafo para a mensagem, uma imagem SVG, um botão para controle e um span para mostrar o tempo.
+HTML: Criei um arquivo HTML com uma div "reminder" para o lembrete, um parágrafo para a mensagem, uma imagem PNG , um botão para controle e um span para mostrar o tempo.
 
 CSS: Estilizei o projeto com um plano de fundo, um lembrete estilizado, a imagem com tamanho ajustado e um botão atraente.
 
