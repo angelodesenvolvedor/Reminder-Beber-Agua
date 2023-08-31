@@ -9,6 +9,7 @@ CSS: Estilizei o projeto com um plano de fundo, um lembrete estilizado, a imagem
 JavaScript: Adicionei interatividade usando addEventListener para controlar quando começar e parar o cronômetro. Usei variáveis como startTime e timerInterval.
 
 Customização: Ajustei os estilos para criar o visual desejado, testei em diferentes navegadores e finalizei o projeto.
+
 <div class="image-container">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40" />
